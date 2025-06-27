@@ -17,7 +17,10 @@ npm install
 
 ### 4. Import database
 
-Version MacOS: (Dùng MAMP) /Applications/MAMP/Library/bin/mysql57/bin/mysql -u root -proot -h 127.0.0.1 -P 8889 qlsv_db < .sql
+Version MacOS: (Dùng MAMP) 
+```bash
+/Applications/MAMP/Library/bin/mysql57/bin/mysql -u root -proot -h 127.0.0.1 -P 8889 qlsv_db < .sql
+```
 	•	-u root: tên username của MySQL
 	•	-proot: dùng mật khẩu root
 	•	-h 127.0.0.1: địa chỉ IP localhost
