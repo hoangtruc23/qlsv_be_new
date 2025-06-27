@@ -1,7 +1,7 @@
 -- Tạo database nếu chưa có
-CREATE DATABASE IF NOT EXISTS qlsv_db;
+CREATE DATABASE IF NOT EXISTS qlsv_db_new;
 
-USE qlsv_db;
+USE qlsv_db_new;
 
 -- 
 CREATE TABLE `user` (
